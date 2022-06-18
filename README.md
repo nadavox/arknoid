@@ -8,8 +8,7 @@ The game has 3 level sets which you can enjoy.
 
 the makefile has 3 targets:
 
-1. compile: compiles all packages in the src directory, using the resources in the directory with
-the same name, and using the biuoop jar and the tools provided by it.
+1. compile: compiles all packages in the src directory, and using the biuoop jar and the tools provided by it.
 
 2. run: runs the game after compiling with the "compile" target.
 
